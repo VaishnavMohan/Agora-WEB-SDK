@@ -60,7 +60,7 @@ body,html {
     }
   }
   .head{
-      background-color: #fff;
+      text-emphasis-color: white;
       align-self: center;
       text-align: center;
   }
