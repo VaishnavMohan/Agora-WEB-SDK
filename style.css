@@ -42,8 +42,8 @@ body,html {
   }
   
   .player {
-    width: 480px;
-    height: 320px;
+    width: 1000px;
+    height: 1000px;
   }
   
   .player-name {
