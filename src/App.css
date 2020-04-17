@@ -1,0 +1,64 @@
+.banner {
+  padding: 0;
+  background-color: #52575c;
+  color: white;
+}
+
+.banner-text {
+  padding: 8px 20px;
+  margin: 0;
+}
+
+
+#join-form {
+  margin-top: 10px;
+}
+
+.tips {
+  font-size: 12px;
+  margin-bottom: 2px;
+  color: gray;
+}
+
+.join-info-text {
+  margin-bottom: 2px;
+}
+
+
+
+.player {
+  width: 480px;
+  height: 320px;
+}
+
+.player-name {
+  margin: 8px 0;
+}
+
+#success-alert {
+  display: none;
+}
+
+@media (max-width: 640px) {
+  .player {
+    width: 320px;
+    height: 240px;
+  }
+}
+.container {
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  background-color: #008CBA;
+}
+.container input {
+  display: block;
+  text-align: center;
+  margin: 0.5em auto;
+  padding: 0.5em;
+}
+
+.stream {
+  width: 480px;
+  height: 320px;
+}
